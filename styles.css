@@ -12,6 +12,7 @@ body {
   width: 200px;
   height: 100px;
   left: 250px;
+  margin-top: 0px;
   position: relative;
   background-color: yellow;
 }
@@ -20,6 +21,7 @@ body {
   width: 200px;
   height: 100px;
   left: 500px;
+  margin-top: 0px;
   position: relative;
   background-color: green;
 }
