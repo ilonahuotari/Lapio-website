@@ -2,10 +2,18 @@ h1 {
   color: blue;
  {
 
-.paahenkilot { color: red; } 
+h2 { 
+  color: red; 
+}
    
-   .leipateksti { color: pink; }
+.leipateksti { 
+  color: pink; 
+{
    
-   .ekaluku { color: red; }
+.ekaluku { 
+  color: red; 
+}
    
-   p { color: red; }
+p { 
+  color: red; 
+}
