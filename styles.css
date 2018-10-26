@@ -12,7 +12,7 @@ body {
   width: 200px;
   height: 100px;
   left: 250px;
-  position: absolutive;
+  position: relative;
   background-color: yellow;
 }
 
