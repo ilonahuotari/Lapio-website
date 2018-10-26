@@ -12,12 +12,14 @@ body {
   width: 200px;
   height: 100px;
   left: 250px;
-  position: relative;
+  position: absolutive;
   background-color: yellow;
 }
 
 .third-box-container {
   width: 200px;
   height: 100px;
+  left: 500px;
+  position: relative;
   background-color: green;
 }
